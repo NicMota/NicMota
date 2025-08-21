@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Information Security   
+🌱 I’m currently learning Cyber Security
 👯 I’m looking to collaborate on Web Projects :)  
 💬 Ask me about Games (especially Soul Like's)  
 ⚡ Fun fact: I like drawing at the free time 🎨  
