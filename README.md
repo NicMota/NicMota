@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=NicMota&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p>
   <a href="https://github.com/JustTheHero/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicMota&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicMota&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light" />
   </a>
 </p>
 
