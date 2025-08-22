@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 🌱 I’m currently learning Cyber Security
-👯 I’m looking to collaborate on Web Projects :)  
+👯 I’m looking to collaborate on Web Projects :) 
+🎓 I’m studying Computer Sciesce At USP 
 💬 Ask me about Games (especially Soul Like's)  
 ⚡ Fun fact: I like drawing at the free time 🎨  
 
@@ -12,6 +13,9 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicMota&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light" />
   </a>
 </p>
+
+## Looking for Freelances - #OpenToWork 🚀
+I’m looking for oportunities to develop backend services. I’ll be glad to help with backend and logic solutions. Let’s work togheter :D!
 
 ## My skills
 
