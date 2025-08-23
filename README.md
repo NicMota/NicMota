@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Cyber Security
-👯 I’m looking to collaborate on Web Projects :) 
-🎓 I’m studying Computer Sciesce At USP 
-💬 Ask me about Games (especially Soul Like's)  
-⚡ Fun fact: I like drawing at the free time 🎨  
+🌱 I’m currently learning Cyber Security  
+🤝 I’m looking to collaborate on Web Projects :)   
+🎓 I’m studying Computer Sciesce At USP   
+💬 Ask me about Games (especially Soul Like's)    
+⚡ Fun fact: I like drawing at the free time 🎨    
 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=NicMota&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
