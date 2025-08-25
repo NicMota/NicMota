@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Cyber Security  
 🤝 I’m looking to collaborate on Web Projects :)   
-🎓 I’m studying Computer Sciesce At USP   
+🎓 I’m studying Computer Science At USP   
 💬 Ask me about Games (especially Soul Like's)    
 ⚡ Fun fact: I like drawing at the free time 🎨    
 
