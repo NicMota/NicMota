@@ -15,7 +15,7 @@
 </p>
 
 ## Looking for Freelances - #OpenToWork 🚀
-I’m looking for oportunities to develop backend services. I’ll be glad to help with backend and logic solutions. Let’s work togheter :D!
+I’m looking for oportunities to develop backend services. I’ll be glad to help with backend and logic solutions. Let’s work together :D!
 
 ## My skills
 
